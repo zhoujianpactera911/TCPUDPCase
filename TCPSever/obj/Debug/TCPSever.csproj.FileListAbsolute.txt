@@ -1,0 +1,7 @@
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPSever\bin\Debug\TCPSever.exe.config
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPSever\bin\Debug\TCPSever.exe
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPSever\bin\Debug\TCPSever.pdb
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPSever\obj\Debug\TCPSever.csprojAssemblyReference.cache
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPSever\obj\Debug\TCPSever.csproj.CoreCompileInputs.cache
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPSever\obj\Debug\TCPSever.exe
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPSever\obj\Debug\TCPSever.pdb

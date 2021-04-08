@@ -1,0 +1,7 @@
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPUDPCase\bin\Debug\TCPUDPCase.exe.config
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPUDPCase\bin\Debug\TCPUDPCase.exe
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPUDPCase\bin\Debug\TCPUDPCase.pdb
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPUDPCase\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPUDPCase\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPUDPCase\obj\Debug\TCPUDPCase.exe
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\TCPUDPCase\obj\Debug\TCPUDPCase.pdb

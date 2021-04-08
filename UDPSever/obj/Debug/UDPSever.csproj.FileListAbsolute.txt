@@ -1,0 +1,7 @@
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPSever\bin\Debug\UDPSever.exe.config
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPSever\bin\Debug\UDPSever.exe
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPSever\bin\Debug\UDPSever.pdb
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPSever\obj\Debug\UDPSever.csprojAssemblyReference.cache
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPSever\obj\Debug\UDPSever.csproj.CoreCompileInputs.cache
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPSever\obj\Debug\UDPSever.exe
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPSever\obj\Debug\UDPSever.pdb

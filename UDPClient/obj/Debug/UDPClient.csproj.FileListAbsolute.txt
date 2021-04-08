@@ -1,0 +1,7 @@
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPClient\bin\Debug\UDPClient.exe.config
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPClient\bin\Debug\UDPClient.exe
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPClient\bin\Debug\UDPClient.pdb
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPClient\obj\Debug\UDPClient.csprojAssemblyReference.cache
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPClient\obj\Debug\UDPClient.exe
+C:\Users\v-zhojia\Desktop\新建文件夹 (11)\TCPUDPCase\UDPClient\obj\Debug\UDPClient.pdb
